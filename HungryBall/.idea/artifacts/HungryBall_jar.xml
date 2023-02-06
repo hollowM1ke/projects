@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HungryBall:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HungryBall_jar</output-path>
+    <root id="archive" name="HungryBall.jar">
+      <element id="module-output" name="HungryBall" />
+    </root>
+  </artifact>
+</component>
